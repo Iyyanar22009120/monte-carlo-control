@@ -103,7 +103,8 @@ def mc_control(env,
 ![image](https://github.com/user-attachments/assets/0d628e64-f86f-45f3-a5a6-f2210b43e315)
 
 ### Success rate for the optimal policy
-![image](https://github.com/user-attachments/assets/3d70f0cb-7ecb-40f4-87c5-8b204d4f7f86)
+![image](https://github.com/user-attachments/assets/bf0d3150-125b-4d9d-9c8b-c101aa3b9c0d)
+
 
 
 
